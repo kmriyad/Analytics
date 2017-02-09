@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<config xmlns="http://www.knime.org/2008/09/XMLConfig" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.knime.org/2008/09/XMLConfig http://www.knime.org/XMLConfig_2008_09.xsd" key="settings.xml">
+<entry key="node_file" type="xstring" value="settings.xml"/>
+<config key="flow_stack"/>
+<config key="internal_node_subsettings">
+<entry key="memory_policy" type="xstring" value="CacheSmallInMemory"/>
+</config>
+<config key="model">
+<entry key="duplicateHandling" type="xstring" value="AppendSuffixAutomatic"/>
+<entry key="compositionMode" type="xstring" value="MatchAll"/>
+<entry key="joinMode" type="xstring" value="RightOuterJoin"/>
+<config key="leftTableJoinPredicate">
+<entry key="array-size" type="xint" value="1"/>
+<entry key="0" type="xstring" value="STAFFINDEX"/>
+</config>
+<config key="rightTableJoinPredicate">
+<entry key="array-size" type="xint" value="1"/>
+<entry key="0" type="xstring" value="Index"/>
+</config>
+<entry key="suffix" type="xstring" value="(*)"/>
+<config key="leftIncludeCols">
+<entry key="array-size" type="xint" value="4"/>
+<entry key="0" type="xstring" value="USERID"/>
+<entry key="1" type="xstring" value="FIRSTNAME"/>
+<entry key="2" type="xstring" value="LASTNAME"/>
+<entry key="3" type="xstring" value="STAFFINDEX"/>
+</config>
+<config key="rightIncludeCols">
+<entry key="array-size" type="xint" value="44"/>
+<entry key="0" type="xstring" value="Index"/>
+<entry key="1" type="xstring" value="LMS-1289+prediction"/>
+<entry key="2" type="xstring" value="LMS-1303+prediction"/>
+<entry key="3" type="xstring" value="LMS-1304+prediction"/>
+<entry key="4" type="xstring" value="LMS-1323+prediction"/>
+<entry key="5" type="xstring" value="LMS-1330+prediction"/>
+<entry key="6" type="xstring" value="LMS-1335+prediction"/>
+<entry key="7" type="xstring" value="LMS-1336+prediction"/>
+<entry key="8" type="xstring" value="LMS-1338+prediction"/>
+<entry key="9" type="xstring" value="LMS-1342+prediction"/>
+<entry key="10" type="xstring" value="LMS-1347+prediction"/>
+<entry key="11" type="xstring" value="LMS-1349+prediction"/>
+<entry key="12" type="xstring" value="LMS-1354+prediction"/>
+<entry key="13" type="xstring" value="LMS-1356+prediction"/>
+<entry key="14" type="xstring" value="LMS-1564+prediction"/>
+<entry key="15" type="xstring" value="LMS-1714+prediction"/>
+<entry key="16" type="xstring" value="LMS-1947+prediction"/>
+<entry key="17" type="xstring" value="LMS-1324+prediction"/>
+<entry key="18" type="xstring" value="LMS-1339+prediction"/>
+<entry key="19" type="xstring" value="LMS-1605+prediction"/>
+<entry key="20" type="xstring" value="LMS-1736+prediction"/>
+<entry key="21" type="xstring" value="LMS-1930+prediction"/>
+<entry key="22" type="xstring" value="LMS-1306+prediction"/>
+<entry key="23" type="xstring" value="LMS-1307+prediction"/>
+<entry key="24" type="xstring" value="LMS-1340+prediction"/>
+<entry key="25" type="xstring" value="LMS-1571+prediction"/>
+<entry key="26" type="xstring" value="LMS-1737+prediction"/>
+<entry key="27" type="xstring" value="LMS-1931+prediction"/>
+<entry key="28" type="xstring" value="LMS-1952+prediction"/>
+<entry key="29" type="xstring" value="LMS-1953+prediction"/>
+<entry key="30" type="xstring" value="LMS-1954+prediction"/>
+<entry key="31" type="xstring" value="LMS-1955+prediction"/>
+<entry key="32" type="xstring" value="LMS-1956+prediction"/>
+<entry key="33" type="xstring" value="LMS-1957+prediction"/>
+<entry key="34" type="xstring" value="LMS-1958+prediction"/>
+<entry key="35" type="xstring" value="LMS-1959+prediction"/>
+<entry key="36" type="xstring" value="LMS-1732+prediction"/>
+<entry key="37" type="xstring" value="LMS-1888+prediction"/>
+<entry key="38" type="xstring" value="LMS-1951+prediction"/>
+<entry key="39" type="xstring" value="LMS-1308+prediction"/>
+<entry key="40" type="xstring" value="LMS-1332+prediction"/>
+<entry key="41" type="xstring" value="LMS-1352+prediction"/>
+<entry key="42" type="xstring" value="LMS-1566+prediction"/>
+<entry key="43" type="xstring" value="LMS-1309+prediction"/>
+</config>
+<entry key="leftIncludeAll" type="xboolean" value="true"/>
+<entry key="rightIncludeAll" type="xboolean" value="true"/>
+<entry key="rmLeftJoinCols" type="xboolean" value="false"/>
+<entry key="rmRightJoinCols" type="xboolean" value="true"/>
+<entry key="maxOpenFiles" type="xint" value="200"/>
+<entry key="rowKeySeparator" type="xstring" value="_"/>
+<entry key="enableHiLite" type="xboolean" value="false"/>
+<entry key="numBitsInitial" type="xint" value="6"/>
+<entry key="numBitsMaximal" type="xint" value="32"/>
+<entry key="usedMemoryThreshold" type="xdouble" value="0.85"/>
+<entry key="minAvailableMemory" type="xlong" value="10000000"/>
+<entry key="memUseCollectionUsage" type="xboolean" value="true"/>
+<entry key="version" type="xstring" value="version_3"/>
+</config>
+<entry key="customDescription" type="xstring" isnull="true" value=""/>
+<entry key="state" type="xstring" value="EXECUTED"/>
+<entry key="factory" type="xstring" value="org.knime.base.node.preproc.joiner.Joiner2NodeFactory"/>
+<entry key="node-name" type="xstring" value="Joiner"/>
+<entry key="node-bundle-name" type="xstring" value="KNIME Base Nodes"/>
+<entry key="node-bundle-symbolic-name" type="xstring" value="org.knime.base"/>
+<entry key="node-bundle-vendor" type="xstring" value="KNIME GmbH, Konstanz, Germany"/>
+<entry key="node-bundle-version" type="xstring" value="3.2.0.v201607050924"/>
+<entry key="node-feature-name" type="xstring" value="Lhasa Metabolism Feature"/>
+<entry key="node-feature-symbolic-name" type="xstring" value="org.lhasalimited.knime.metabolism.feature.feature.group"/>
+<entry key="node-feature-vendor" type="xstring" value="Lhasa Limited (http://www.lhasalimited.org)"/>
+<entry key="node-feature-version" type="xstring" value="1.1.0.v201607041447"/>
+<config key="factory_settings"/>
+<entry key="name" type="xstring" value="Joiner"/>
+<entry key="hasContent" type="xboolean" value="true"/>
+<entry key="isInactive" type="xboolean" value="false"/>
+<config key="ports">
+<config key="port_1">
+<entry key="index" type="xint" value="1"/>
+<entry key="port_spec_class" type="xstring" value="org.knime.core.data.DataTableSpec"/>
+<entry key="port_object_class" type="xstring" value="org.knime.core.node.BufferedDataTable"/>
+<entry key="port_object_summary" type="xstring" value="Rows: 6284, Cols: 47"/>
+<entry key="port_dir_location" type="xstring" value="port_1"/>
+</config>
+</config>
+<config key="filestores">
+<entry key="file_store_location" type="xstring" isnull="true" value=""/>
+<entry key="file_store_id" type="xstring" value="d79210a8-ca5a-495e-9bcf-57404c7cd49e"/>
+</config>
+</config>

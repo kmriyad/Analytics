@@ -113,7 +113,7 @@
 <config key="column_properties"/>
 </config>
 <config key="column_spec_10">
-<entry key="column_name" type="xstring" value="Concatenate(ROLE_CODE)"/>
+<entry key="column_name" type="xstring" value="UMOJAROLEID"/>
 <config key="element_names">
 <entry key="array-size" type="xint" value="0"/>
 </config>

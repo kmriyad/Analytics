@@ -38,19 +38,19 @@
 <config key="0">
 <entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
 <config key="org.knime.core.data.def.StringCell">
-<entry key="StringCell" type="xstring" value="ReqAndTaken"/>
+<entry key="StringCell" type="xstring" value="Y"/>
 </config>
 </config>
 <config key="1">
 <entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
 <config key="org.knime.core.data.def.StringCell">
-<entry key="StringCell" type="xstring" value="ReqButNotTaken"/>
+<entry key="StringCell" type="xstring" value="N"/>
 </config>
 </config>
 <config key="2">
 <entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
 <config key="org.knime.core.data.def.StringCell">
-<entry key="StringCell" type="xstring" value="NotReqButTaken"/>
+<entry key="StringCell" type="xstring" value="T"/>
 </config>
 </config>
 </config>

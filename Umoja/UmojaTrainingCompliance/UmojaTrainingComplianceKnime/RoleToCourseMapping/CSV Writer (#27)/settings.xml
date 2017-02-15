@@ -14,13 +14,13 @@
 <entry key="quoteReplacement" type="xstring" value=""/>
 <entry key="sepReplacePattern" type="xstring" value=""/>
 <entry key="ReplSepInStrings" type="xboolean" value="false"/>
-<entry key="writeColHeader" type="xboolean" value="false"/>
+<entry key="writeColHeader" type="xboolean" value="true"/>
 <entry key="writeRowHeader" type="xboolean" value="false"/>
 <entry key="decimalSeparator" type="xchar" value="."/>
 <entry key="lineEndingMode" type="xstring" value="SYST"/>
 <entry key="charSet" type="xstring" isnull="true" value=""/>
-<entry key="filename" type="xstring" value="C:\Users\Mohammed.Mohideen\Workspace\Analytics\Umoja\UmojaTrainingCompliance\DataLake\courseAttribute.csv"/>
-<entry key="fileOverwritePolicy" type="xstring" value="Abort"/>
+<entry key="filename" type="xstring" value="C:\Users\Mohammed.Mohideen\Workspace\Analytics\Umoja\UmojaTrainingCompliance\DataLake\courseAttributeVertical.csv"/>
+<entry key="fileOverwritePolicy" type="xstring" value="Overwrite"/>
 <entry key="skipWriteColHeaderOnAppend" type="xboolean" value="false"/>
 <entry key="commentBegin" type="xstring" value=""/>
 <entry key="commentEnd" type="xstring" value=""/>
@@ -49,6 +49,6 @@
 <config key="ports"/>
 <config key="filestores">
 <entry key="file_store_location" type="xstring" isnull="true" value=""/>
-<entry key="file_store_id" type="xstring" value="ccc09e08-f299-4136-888e-026307c23f08"/>
+<entry key="file_store_id" type="xstring" value="cd9fecf8-364b-4f0d-b919-b1394086da3f"/>
 </config>
 </config>

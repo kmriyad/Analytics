@@ -12,9 +12,9 @@
 <entry key="1" type="xstring" value="// $double column name$ &gt; 5.0 =&gt; &quot;large&quot;"/>
 <entry key="2" type="xstring" value="// $string column name$ LIKE &quot;*blue*&quot; =&gt; &quot;small and blue&quot;"/>
 <entry key="3" type="xstring" value="// TRUE =&gt; &quot;default outcome&quot;"/>
-<entry key="4" type="xstring" value="NOT MISSING $ClassRequiredAndTaken$ =&gt; &quot;ReqAndTaken&quot;"/>
-<entry key="5" type="xstring" value="NOT MISSING $ClassRequiredNotTaken$ =&gt; &quot;ReqButNotTaken&quot;"/>
-<entry key="6" type="xstring" value="NOT MISSING $ClassNotRequiredButTaken$ =&gt; &quot;NotReqButTaken&quot;"/>
+<entry key="4" type="xstring" value="NOT MISSING $ClassRequiredAndTaken$ =&gt; &quot;Y&quot;"/>
+<entry key="5" type="xstring" value="NOT MISSING $ClassRequiredNotTaken$ =&gt; &quot;N&quot;"/>
+<entry key="6" type="xstring" value="NOT MISSING $ClassNotRequiredButTaken$ =&gt; &quot;T&quot;"/>
 </config>
 <entry key="new-column-name" type="xstring" value="prediction"/>
 <entry key="replace-column-name" type="xstring" value="ClassNotRequiredButTaken"/>
@@ -42,12 +42,12 @@
 <entry key="index" type="xint" value="1"/>
 <entry key="port_spec_class" type="xstring" value="org.knime.core.data.DataTableSpec"/>
 <entry key="port_object_class" type="xstring" value="org.knime.core.node.BufferedDataTable"/>
-<entry key="port_object_summary" type="xstring" value="Rows: 292733, Cols: 5"/>
+<entry key="port_object_summary" type="xstring" value="Rows: 233003, Cols: 5"/>
 <entry key="port_dir_location" type="xstring" value="port_1"/>
 </config>
 </config>
 <config key="filestores">
 <entry key="file_store_location" type="xstring" isnull="true" value=""/>
-<entry key="file_store_id" type="xstring" value="cf8c30e1-95e0-427f-a046-7597489d3b5c"/>
+<entry key="file_store_id" type="xstring" value="7fe71379-96dc-4c16-8319-5da19314317a"/>
 </config>
 </config>

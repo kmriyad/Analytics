@@ -6,7 +6,7 @@
 <entry key="memory_policy" type="xstring" value="CacheSmallInMemory"/>
 </config>
 <config key="model">
-<entry key="url" type="xstring" value="C:\Users\Mohammed.Mohideen\Workspace\Analytics\Umoja\UmojaTrainingCompliance\DataLake\RoleToCourseMapping.csv"/>
+<entry key="url" type="xstring" value="knime://LOCAL/Analytics/Umoja/UmojaTrainingCompliance/DataLake/RoleToCourseMapping.csv"/>
 <entry key="colDelimiter" type="xstring" value=","/>
 <entry key="rowDelimiter" type="xstring" value="%%00010"/>
 <entry key="quote" type="xstring" value="&quot;"/>
@@ -59,6 +59,6 @@
 </config>
 <config key="filestores">
 <entry key="file_store_location" type="xstring" isnull="true" value=""/>
-<entry key="file_store_id" type="xstring" value="cfcdefe1-22dc-4946-ae3e-ef4860ae4e74"/>
+<entry key="file_store_id" type="xstring" value="5a875092-b991-4c6f-93fb-ffe88b0db6c6"/>
 </config>
 </config>

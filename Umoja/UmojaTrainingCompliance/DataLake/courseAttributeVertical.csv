@@ -1,0 +1,326 @@
+LMSCode,Lvl,CourseNo,CourseTitle,DeliveryMethod
+LMS-1335,1,101,Umoja Overview,CBT
+LMS-1336,1,102,Umoja Master Data & Coding Block Overview,CBT
+LMS-1354,2,201,Umoja ECC Navigation,CBT
+LMS-1356,2,203,Umoja BI Navigation,CBT
+LMS-1527,3,391,Umoja Sales and Distribution,ILT
+LMS-1714,2,211,Umoja Employee Self Service (ESS) Basic Navigation (highly recommended),CBT
+LMS-2175,1,158,Umoja Services Delivery Overview,CBT
+LMS-2181,3,401,Umoja Distance Learning for Services Delivery and Property Management,VILT
+LMS-1289,3,301,Umoja Advanced BI Navigation,CBT
+LMS-1443,1,121,Umoja Requesting and Managing Services for Consultant and ICs Overview,CBT
+LMS-1715,1,153,Umoja Organizational Management Overview,CBT
+LMS-1737,1,155,Umoja Travel Overview,CBT
+LMS-1888,3,3125,Umoja Benefits Employee Self-Service (ESS) Overview,CBT
+LMS-1960,3,392,HR Partner Course,ILT
+LMS-1997,3,3144,Umoja Create HR and Entitlement Travel Request,CBT
+LMS-1303,3,309,Umoja Budget Distribution,ILT
+LMS-1320,3,318,Umoja Requisitioning,ILT
+LMS-1338,1,104,Umoja Funds Management Overview,CBT
+LMS-1342,1,108,Umoja Cost and Management Accounting Overview,CBT
+LMS-1344,1,110,Umoja Requisitioning Overview,CBT
+LMS-1345,1,111,Umoja Procurement Overview,CBT
+LMS-1355,2,202,Umoja SRM Navigation,CBT
+LMS-1564,3,310,Umoja Budget Implementation,ILT
+LMS-1570,3,342,Umoja Service Receipt Process,CBT
+LMS-1929,1,126,Umoja Material Master Overview,CBT
+LMS-1308,3,314,Umoja Cost and Management Accounting Process,ILT
+LMS-1323,3,321,Umoja Accounts Payable Process,ILT
+LMS-1347,1,113,Umoja Accounts Payable Overview,CBT
+LMS-1349,1,115,Umoja Accounts Receivable Overview,CBT
+LMS-1352,1,118,Umoja Asset Accounting Overview,CBT
+LMS-1775,1,119,Umoja Property Management Overview,CBT
+LMS-1920,1,123,Umoja Logistics Overview (Non-Peacekeeping),CBT
+LMS-1938,3,350,Umoja Inbound Goods Process (Non-Peacekeeping),ILT
+LMS-1957,3,3148,Umoja Processing and Approving Travel Requests,ILT
+LMS-1996,3,3142,Umoja Create Official Travel Request,CBT
+LMS-1998,3,3146,Umoja Create Shipment Request of Personal Items,CBT
+LMS-1999,3,3147,Umoja Process Expense Report,CBT
+LMS-2073,3,393,HR Mini Master **,ILT
+LMS-1306,3,311,Umoja Grants Management Process - Framework I,ILT
+LMS-1307,3,315,Umoja Project Management Process,ILT
+LMS-1340,1,106,Umoja Grants Management Overview,CBT
+LMS-1571,3,312,Umoja Grants Management Process - Framework II,ILT
+LMS-1931,3,313,Umoja Grants Management Process – Pass-through Grants Execution,ILT
+LMS-1327,3,326,Umoja Low Value Acquisitions,CBT
+LMS-1487,3,323,Umoja Requisitioning and Procurement Approvals,CBT
+LMS-1330,3,330,Umoja Accounts Receivable Process,ILT
+LMS-1947,3,371,Umoja Bank Reconciliation ,ILT
+LMS-1529,3,341,Umoja Requesting Services of Consultants and ICs Process,ILT
+LMS-1325,3,319,Umoja Solicitations,ILT
+LMS-1328,3,328,Umoja Contract and PO Creation,ILT
+LMS-1326,1,109,Umoja Real Estate Management Overview,CBT
+LMS-1304,3,308,Umoja General Ledger Process,ILT
+LMS-1954,3,3145,Umoja Create Travel Request for Uniformed Personnel **,ILT
+LMS-1732,3,3126,Umoja Medical and Life Insurance Administration,CBT
+LMS-1339,1,105,Umoja Cash Management and Treasury Overview,CBT
+LMS-1531,3,343,Umoja Management of Consultants and ICs,ILT
+LMS-1935,3,339,Umoja Local Inventory Goods Movement,ILT
+LMS-1939,3,351,Umoja Inventory Counting and Controlling,ILT
+LMS-1332,3,332,Umoja Fixed Asset Accounting Process,ILT
+LMS-1946,3,370,Umoja Assets Under Construction,ILT
+LMS-1958,3,3149,Umoja Ticket Billing and Reconciliation,ILT
+LMS-1959,3,3150,Umoja Travel Finance Integration,ILT
+LMS-1728,3,3134,Umoja Organizational Management for OM Administrators,ILT
+LMS-1729,3,3135,Umoja Organizational Management for Central Budget Staff,ILT
+LMS-2200,3,390,Umoja Service Order Management,ILT
+LMS-1568,3,325,Umoja Real Estate Portfolio Management,ILT
+LMS-1569,3,324,Umoja Lease Administration Process,ILT
+LMS-2165,3,340,Umoja Warehouse Management,ILT
+LMS-1324,3,322,Umoja Payment Processing (Cashiers),ILT
+LMS-1745,,,,
+LMS-2342,,,,
+LMS-2000,,,,
+LMS-2193,,,,
+LMS-1624,,,,
+LMS-1667,,,,
+LMS-2195,,,,
+LMS-2002,,,,
+LMS-2167,,,,
+LMS-2199,,,,
+LMS-2168,,,,
+LMS-2001,,,,
+LMS-2268,,,,
+LMS-2269,,,,
+LMS-2003,,,,
+LMS-2271,,,,
+LMS-2244,,,,
+LMS-1346,,,,
+LMS-2241,,,,
+LMS-2242,,,,
+LMS-1806,,,,
+LMS-1970,,,,
+LMS-2202,,,,
+LMS-1322,,,,
+LMS-1898,,,,
+LMS-1903,,,,
+LMS-1910,,,,
+LMS-2004,,,,
+LMS-2025,,,,
+LMS-1807,,,,
+LMS-1357,,,,
+LMS-1984,,,,
+LMS-2014,,,,
+LMS-2182,,,,
+LMS-2183,,,,
+LMS-2218,,,,
+LMS-2314,,,,
+LMS-2029,,,,
+LMS-2229,,,,
+LMS-1949,,,,
+LMS-1794,,,,
+LMS-1808,,,,
+LMS-1932,,,,
+LMS-1978,,,,
+LMS-1879,,,,
+LMS-2052,,,,
+LMS-2173,,,,
+LMS-1299,,,,
+LMS-1900,,,,
+LMS-1979,,,,
+LMS-1901,,,,
+LMS-1902,,,,
+LMS-1309,,,,
+LMS-2020,,,,
+LMS-1891,,,,
+LMS-2447,,,,
+LMS-2330,,,,
+LMS-1909,,,,
+LMS-1915,,,,
+LMS-1916,,,,
+LMS-1919,,,,
+LMS-2110,,,,
+LMS-2186,,,,
+LMS-1756,,,,
+LMS-1773,,,,
+LMS-1704,,,,
+LMS-1302,,,,
+LMS-1348,,,,
+LMS-2076,,,,
+LMS-2078,,,,
+LMS-2097,,,,
+LMS-2282,,,,
+LMS-2436,,,,
+LMS-2108,,,,
+LMS-1329,,,,
+LMS-1375,,,,
+LMS-1376,,,,
+LMS-2085,,,,
+LMS-2055,,,,
+LMS-1866,,,,
+LMS-1985,,,,
+LMS-1976,,,,
+LMS-1982,,,,
+LMS-2024,,,,
+LMS-1878,,,,
+LMS-1934,,,,
+LMS-1940,,,,
+LMS-1941,,,,
+LMS-1988,,,,
+LMS-1566,,,,
+LMS-2209,,,,
+LMS-2112,,,,
+LMS-2294,,,,
+LMS-1865,,,,
+LMS-2140,,,,
+LMS-2013,,,,
+LMS-1370,,,,
+LMS-2156,,,,
+LMS-2012,,,,
+LMS-1933,,,,
+LMS-2307,,,,
+LMS-2109,,,,
+LMS-1890,,,,
+LMS-1966,,,,
+LMS-1362,,,,
+LMS-1373,,,,
+LMS-1380,,,,
+LMS-1972,,,,
+LMS-1973,,,,
+LMS-1974,,,,
+LMS-2017,,,,
+LMS-2026,,,,
+LMS-2056,,,,
+LMS-2018,,,,
+LMS-2046,,,,
+LMS-1760,,,,
+LMS-2008,,,,
+LMS-2114,,,,
+LMS-1863,,,,
+LMS-1759,,,,
+LMS-2021,,,,
+LMS-2149,,,,
+LMS-2174,,,,
+LMS-1862,,,,
+LMS-2141,,,,
+LMS-1809,,,,
+LMS-2043,,,,
+LMS-1741,,,,
+LMS-1752,,,,
+LMS-2028,,,,
+LMS-2373,,,,
+LMS-2374,,,,
+LMS-1498,,,,
+LMS-1499,,,,
+LMS-1777,,,,
+LMS-1778,,,,
+LMS-1747,,,,
+LMS-2246,,,,
+LMS-2087,,,,
+LMS-1519,,,,
+LMS-1993,,,,
+LMS-1321,,,,
+LMS-2146,,,,
+LMS-1334,,,,
+LMS-1779,,,,
+LMS-1780,,,,
+LMS-1781,,,,
+LMS-2079,,,,
+LMS-1797,,,,
+LMS-1374,,,,
+LMS-1723,,,,
+LMS-1724,,,,
+LMS-1730,,,,
+LMS-1742,,,,
+LMS-1743,,,,
+LMS-1750,,,,
+LMS-1755,,,,
+LMS-1758,,,,
+LMS-1762,,,,
+LMS-1767,,,,
+LMS-1768,,,,
+LMS-1772,,,,
+LMS-1983,,,,
+LMS-2027,,,,
+LMS-1994,,,,
+LMS-1749,,,,
+LMS-2081,,,,
+LMS-2090,,,,
+LMS-2113,,,,
+LMS-2274,,,,
+LMS-2275,,,,
+LMS-1363,,,,
+LMS-1914,,,,
+LMS-1364,,,,
+LMS-1368,,,,
+LMS-1369,,,,
+LMS-1382,,,,
+LMS-1738,,,,
+LMS-1288,,,,
+LMS-2196,,,,
+LMS-1992,,,,
+LMS-2047,,,,
+LMS-1953,,,,
+LMS-2080,,,,
+LMS-1371,,,,
+LMS-1378,,,,
+LMS-2272,,,,
+LMS-2036,,,,
+LMS-2066,,,,
+LMS-2082,,,,
+LMS-2083,,,,
+LMS-1995,,,,
+LMS-1636,,,,
+LMS-1795,,,,
+LMS-1945,,,,
+LMS-1532,,,,
+LMS-1746,,,,
+LMS-1528,,,,
+LMS-2053,,,,
+LMS-1720,,,,
+LMS-1718,,,,
+LMS-1869,,,,
+LMS-2033,,,,
+LMS-2063,,,,
+LMS-1788,,,,
+LMS-2060,,,,
+LMS-2065,,,,
+LMS-2072,,,,
+LMS-2041,,,,
+LMS-2030,,,,
+LMS-2031,,,,
+LMS-2042,,,,
+LMS-2061,,,,
+LMS-2071,,,,
+LMS-1719,,,,
+LMS-2091,,,,
+LMS-2099,,,,
+LMS-2037,,,,
+LMS-2038,,,,
+LMS-2067,,,,
+LMS-2068,,,,
+LMS-2051,,,,
+LMS-1721,,,,
+LMS-1722,,,,
+LMS-1748,,,,
+LMS-1930,,,,
+LMS-2245,,,,
+LMS-2145,,,,
+LMS-1530,,,,
+LMS-1952,,,,
+LMS-2086,,,,
+LMS-2048,,,,
+LMS-2070,,,,
+LMS-2273,,,,
+LMS-1899,,,,
+LMS-2201,,,,
+LMS-2231,,,,
+LMS-1751,,,,
+LMS-1757,,,,
+LMS-2101,,,,
+LMS-1331,,,,
+LMS-2040,,,,
+LMS-2383,,,,
+LMS-2293,,,,
+LMS-2230,,,,
+LMS-2084,,,,
+LMS-2384,,,,
+LMS-1766,,,,
+LMS-2094,,,,
+LMS-2270,,,,
+LMS-2088,,,,
+LMS-2032,,,,
+LMS-2062,,,,
+LMS-2092,,,,
+LMS-2034,,,,
+LMS-2064,,,,

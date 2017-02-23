@@ -1,0 +1,78 @@
+CDOMAIN,CDOMAINDESCR,CLVL,CNO,CLMS,CDESCRIPTION,CDELIVERY,CCODE,CHOURS
+NA,Introduction & Navigation,1,101,LMS-1335,Umoja Overview,CBT,NA101,1.5
+NA,Introduction & Navigation,1,102,LMS-1336,Umoja Master Data & Coding Block Overview,CBT,MD102,1.5
+NA,Introduction & Navigation,2,201,LMS-1354,Umoja ECC Navigation,CBT,NV201,4
+NA,Introduction & Navigation,2,202,LMS-1355,Umoja SRM Navigation,CBT,NV202,2
+NA,Introduction & Navigation,2,203,LMS-1356,Umoja BI Navigation,CBT,NV203,2
+NA,Introduction & Navigation,2,211,LMS-1714,Umoja Employee Self Service (ESS) Basic Navigation (highly recommended),CBT,NV211,2
+NA,Introduction & Navigation,3,301,LMS-1289,Umoja Advanced BI Navigation,CBT,NV301,3
+FF,Facilities & Fixed Asset Management,1,109,LMS-1326,Umoja Real Estate Management Overview,CBT,CS109,2
+FF,Facilities & Fixed Asset Management,3,324,LMS-1569,Umoja Lease Administration Process,ILT,CS324,14
+FF,Facilities & Fixed Asset Management,3,325,LMS-1568,Umoja Real Estate Portfolio Management,ILT,CS325,14
+FF,Facilities & Fixed Asset Management,3,370,LMS-1946,Umoja Assets Under Construction ,ILT,PJ370,21
+FA,Financial Accounting,1,113,LMS-1347,Umoja Accounts Payable Overview,CBT,FI113,2
+FA,Financial Accounting,1,115,LMS-1349,Umoja Accounts Receivable Overview,CBT,FI115,2
+FA,Financial Accounting,1,118,LMS-1352,Umoja Asset Accounting Overview,CBT,FI118,2
+FA,Financial Accounting,3,308,LMS-1304,Umoja General Ledger Process,ILT,FI308,7
+FA,Financial Accounting,3,321,LMS-1323,Umoja Accounts Payable Process,ILT,FI321,14
+FA,Financial Accounting,3,330,LMS-1330,Umoja Accounts Receivable Process,ILT,FI330,14
+FA,Financial Accounting,3,332,LMS-1332,Umoja Asset Accounting Process,ILT,FI332,7
+FA,Financial Accounting,3,371,LMS-1947,Umoja Bank Reconciliation,ILT,FI371,7
+FM,Funds & Cost Management,1,104,LMS-1338,Umoja Funds Management Overview,CBT,FI104,2
+FM,Funds & Cost Management,1,108,LMS-1342,Umoja Cost and Management Accounting Overview,CBT,FI108,2
+FM,Funds & Cost Management,3,309,LMS-1303,Umoja Budget Distribution,ILT,FI309,10.5
+FM,Funds & Cost Management,3,310,LMS-1564,Umoja Budget Implementation,ILT,FI310,10.5
+FM,Funds & Cost Management,3,314,LMS-1308,Umoja Cost and Management Accounting Process,ILT,FI314,17.5
+GP,Grants & Project Management,1,106,LMS-1340,Umoja Grants Management Overview,CBT,FI106,2
+GP,Grants & Project Management,3,311,LMS-1306,Umoja Grants Management Process - Framework I,ILT,FI311,17.5
+GP,Grants & Project Management,3,312,LMS-1571,Umoja Grants Management Process - Framework II,ILT,FI312,17.5
+GP,Grants & Project Management,3,313,LMS-1931,Umoja Grants Management Process – Pass-through Grants Execution,ILT,FI313,17.5
+GP,Grants & Project Management,3,315,LMS-1307,Umoja Project Management Process,ILT,PJ315,17.5
+HR,Human Resources Administration,1,121,LMS-1443,Umoja Requesting and Managing Services for Consultant and ICs Overview,CBT,SC121,2
+HR,Human Resources Administration,3,341,LMS-1529,Umoja Requesting Services of Consultants and ICs Process,ILT,SC341,21
+HR,Human Resources Administration,3,343,LMS-1531,Umoja Management of Consultants and ICs,ILT,SC343,21
+HR,Human Resources Administration,3,392,LMS-1960,HR Partner Course,ILT,HR392,105
+HR,Human Resources Administration,3,393,LMS-2073,HR Mini Master,ILT,SC393,3.5
+HR,Human Resources Administration,3,394,LMS-2193,Umoja ESS/MSS Focal Point Training,ILT,SC394,
+LE,Logistics Execution,1,123,LMS-1920,Umoja Logistics Overview (Non-Peacekeeping),CBT,SC123,2
+LE,Logistics Execution,3,320,LMS-1322,Umoja Inbound Goods Process (Peacekeeping),ILT,SC320,4
+LE,Logistics Execution,3,339,LMS-1935,Umoja Local Inventory Goods Movement,ILT,SC339,14
+LE,Logistics Execution,3,340,LMS-2165,Umoja Warehouse Management,ILT,SC340,4
+LE,Logistics Execution,3,342,LMS-1570,Umoja Service Receipt Process,CBT,SC342,3.5
+LE,Logistics Execution,3,350,LMS-1938,Umoja Inbound Goods Process (Non-Peacekeeping),ILT,SC350,14
+LE,Logistics Execution,3,351,LMS-1939,Umoja Inventory Counting and Controlling,ILT,SC351,7
+OM,Organizational Management,1,153,LMS-1715,Umoja Organizational Management Overview,CBT,OM153,3
+OM,Organizational Management,3,3134,LMS-1728,Umoja Organizational Management for OM Administrators,ILT,OM3134,7
+OM,Organizational Management,3,3135,LMS-1729,Umoja Organizational Management for Central Budget Staff,ILT,OM3135,7
+PB,Payroll & Benefits Management,3,3125,LMS-1888,Umoja Benefits Employee Self-Service (ESS) Overview,CBT,BN3125,2
+PB,Payroll & Benefits Management,3,3126,LMS-1732,Umoja Medical and Life Insurance Administration,CBT,BN3126,2.5
+SE,Security,1,125,LMS-1624,Umoja Security Overview,CBT,SEC125,N/A
+SE,Security,3,303,LMS-1667,Umoja Security - User Provisioning and Identity Management (IdM),CBT,SEC303,N/A
+SD,Services Delivery,1,119,LMS-1775,Umoja Plant Maintenance Overview,CBT,SC119,2
+SD,Services Delivery,1,158,LMS-2175,Umoja Services Delivery Overview,CBT,SD158,2
+SD,Services Delivery,3,390,LMS-2200,Umoja Service Order Management,ILT,SD390,17.5
+SD,Services Delivery,3,391,LMS-1527,Umoja Sales and Distribution,ILT,SD391,7
+SD,Services Delivery,3,401,,Umoja Distance Learning for Services Delivery including Property Management,VILT,SD401,9
+SA,Source to Acquire,1,110,LMS-1344,Umoja Requisitioning Overview,CBT,SC110,2
+SA,Source to Acquire,1,111,LMS-1345,Umoja Procurement Overview,CBT,SC111,2
+SA,Source to Acquire,1,126,LMS-1929,Umoja Material Master Overview,CBT,MD126,2
+SA,Source to Acquire,3,318,LMS-1320,Umoja Requisitioning ,ILT,SC318,21
+SA,Source to Acquire,3,319,LMS-1325,Umoja Solicitations,ILT,SC319,21
+SA,Source to Acquire,3,323,LMS-1487,Umoja Requisitioning and Procurement Approvals,CBT,SC323,3.5
+SA,Source to Acquire,3,326,LMS-1327,Umoja Low Value Acquisitions,CBT,SC326,3.5
+SA,Source to Acquire,3,328,LMS-1328,Umoja Contract and PO Creation,ILT,SC328,21
+SA,Source to Acquire,3,400,,Umoja Distance Learning for Requisitioning,VILT,SC400,7
+SA,Source to Acquire,3,402,,Umoja Distance Learning for Solicitations,VILT,SC402,5.5
+SA,Source to Acquire,3,403,,Umoja Distance Learning for Contract and Purchase Order (PO) Creation,VILT,SC403,5.5
+TV,Travel Management,1,155,LMS-1737,Umoja Travel Overview,CBT,TV155,3
+TV,Travel Management,3,3142,LMS-1996,Umoja Create Official Travel Request,CBT,TV3142,3.5
+TV,Travel Management,3,3144,LMS-1997,Umoja Create HR and Entitlement Travel Request,CBT,TV3144,3.5
+TV,Travel Management,3,3145,LMS-1954,Umoja Create Travel Request for Uniformed Personnel ** (C5 Distance Learning),ILT,TV3145,3.5
+TV,Travel Management,3,3146,LMS-1998,Umoja Create Shipment Request of Personal Items,CBT,TV3146,3.5
+TV,Travel Management,3,3147,LMS-1999,Umoja Process Expense Report,CBT,TV3147,3.5
+TV,Travel Management,3,3148,LMS-1957,Umoja Processing and Approving Travel Requests,ILT,TV3148,14
+TV,Travel Management,3,3149,LMS-1958,Umoja Ticket Billing and Reconciliation,ILT,TV3149,7
+TV,Travel Management,3,3150,LMS-1959,Umoja Travel Finance Integration,ILT,TV3150,28
+TV,Travel Management,3,3151,LMS-2168,Umoja ESS for Travel Management,ILT,TV3151,14
+TC,Treasury & Cash Management,1,105,LMS-1339,Umoja Cash Management and Treasury Overview,CBT,FI105,2
+TC,Treasury & Cash Management,3,322,LMS-1324,Umoja Payment Processing (Cashiers),ILT,FI322,10.5
